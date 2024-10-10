@@ -1,1 +1,6 @@
-# Riset-Informatika-C081_21081010073_Rafie-Ishaq-Maulana
+# Riset Informatika
+
+|No   |Judul   |Jenis Penelitian   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
