@@ -1,6 +1,16 @@
 # Riset Informatika
 
+- Rafie Ishaq Maulana
+- 21081010073
+- Riset Informatika C081
+
 ## Jenis Penelitian Berdasarkan Penggunaannya
+
+*Penelitian Murni*
+Penelitian murni adalah penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah atau untuk menemukan bidang penelitian baru tanpa suatu tujuan praktis tertentu.
+
+*Penelitian Terapan*
+Penelitian terapan adalah penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah dengan tujuan praktis yang berarti hasilnya dapat segera dipakai untuk keperluan praktis.
 
 |No   |Judul   |Jenis Penelitian   |
 |:-:|:-:|:-:|
