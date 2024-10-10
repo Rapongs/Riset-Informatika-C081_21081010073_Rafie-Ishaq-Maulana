@@ -5,7 +5,7 @@
 |1   |   |   |
 |2   |   |   |
 
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
