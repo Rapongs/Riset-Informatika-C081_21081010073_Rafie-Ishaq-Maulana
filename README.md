@@ -27,5 +27,5 @@ Metodologi adalah ilmu atau studi tentang metode. Mencakup pemahaman yang lebih 
 
 |No  |Judul  |Metode/Metodologi  |
 |:-:|:-:|:-:|
-|1  |  |  |
-|2  |  |  |
+|1  |[Peramalan Penjualan Obat Menggunakan Metode Single Exponential Smoothing Pada Toko Obat Bintang Geurugok](https://ojs.unimal.ac.id/techsi/article/download/178/160)|  Metode|
+|2  |[Penerapan Metode Mobile-Net Untuk Klasifikasi Citra Penyakit Kanker Paru-Paru](http://stmik-budidarma.ac.id/ejurnal/index.php/jurikom/article/download/4918/3059)|Metodologi  |
