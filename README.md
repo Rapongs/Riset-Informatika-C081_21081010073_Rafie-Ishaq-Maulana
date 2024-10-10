@@ -6,10 +6,12 @@
 
 ## Jenis Penelitian Berdasarkan Penggunaannya
 
-*Penelitian Murni*
+**Penelitian Murni**
+
 Penelitian murni adalah penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah atau untuk menemukan bidang penelitian baru tanpa suatu tujuan praktis tertentu.
 
-*Penelitian Terapan*
+**Penelitian Terapan**
+
 Penelitian terapan adalah penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah dengan tujuan praktis yang berarti hasilnya dapat segera dipakai untuk keperluan praktis.
 
 |No   |Judul   |Jenis Penelitian   |
