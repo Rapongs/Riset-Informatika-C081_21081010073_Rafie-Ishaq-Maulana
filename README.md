@@ -7,9 +7,11 @@
 ## Jenis Penelitian Berdasarkan Penggunaannya
 
 **Penelitian Murni**
+
 Penelitian murni adalah penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah atau untuk menemukan bidang penelitian baru tanpa suatu tujuan praktis tertentu.
 
 **Penelitian Terapan**
+
 Penelitian terapan adalah penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah dengan tujuan praktis yang berarti hasilnya dapat segera dipakai untuk keperluan praktis.
 
 |No   |Judul   |Jenis Penelitian   |
@@ -20,9 +22,11 @@ Penelitian terapan adalah penelitian yang bertujuan untuk meningkatkan pengetahu
 ## Perbedaan Metode dan Metodologi
 
 **Metode**
+
 Metode adalah cara atau langkah-langkah yang digunakan untuk melakukan sesuatu. Mengacu pada prosedur atau teknik spesifik yang digunakan dalam penelitian.
 
 **Metodologi**
+
 Metodologi adalah ilmu atau studi tentang metode. Mencakup pemahaman yang lebih mendalam tentang mengapa metode tertentu dipilih dan bagaimana metode tersebut berhubungan dengan pendekatan yang lebih luas dalam penelitian atau pengembangan ilmu pengetahuan.
 
 |No  |Judul  |Metode/Metodologi  |
