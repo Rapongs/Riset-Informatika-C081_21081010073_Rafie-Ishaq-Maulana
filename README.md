@@ -35,3 +35,27 @@ Metodologi adalah ilmu atau studi tentang metode. Mencakup pemahaman yang lebih 
 |:-:|:-:|:-:|
 |1  |[Peramalan Penjualan Obat Menggunakan Metode Single Exponential Smoothing Pada Toko Obat Bintang Geurugok](https://ojs.unimal.ac.id/techsi/article/download/178/160)|  Metode|
 |2  |[Penerapan Metode Mobile-Net Untuk Klasifikasi Citra Penyakit Kanker Paru-Paru](http://stmik-budidarma.ac.id/ejurnal/index.php/jurikom/article/download/4918/3059)|Metodologi  |
+
+---
+
+## Paper Acuan
+
+Berikut merupakan paper acuan yang dipakai untuk melakukan riset :
+
+|No  |Judul  |
+|:-:|:-:|
+|1  |[A Stock Index Futures Price Prediction Approach Based on the MULTI-GARCH-LSTM Mixed Model](https://www.mdpi.com/2227-7390/12/11/1677)|
+|2  |[Stock price prediction using combined GARCH-AI models](https://doi.org/10.1016/j.sciaf.2024.e02374)|
+
+---
+
+## Slide Presentasi
+
+Link slide presentasi :
+
+[Slide Presentasi Riset Informatika](https://www.canva.com/design/DAGZ1z-uiL4/gekavV4oSlgeEAjF6I-ojw/view?utm_content=DAGZ1z-uiL4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb17890c4cc)
+
+Bukti Presentasi :
+
+![image](https://github.com/user-attachments/assets/df021f13-c558-43c9-886b-be13a1d076c2)
+
